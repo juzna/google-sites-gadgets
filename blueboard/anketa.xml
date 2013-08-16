@@ -4,9 +4,9 @@
   <UserPref name="anketaId" display_name="Identifikátor ankety" required="true" />
   <Content type="html">
      <![CDATA[ 
-		<div id="blok-bbsluzba-__UP_anketaId_"></div>
-		<a id="odkaz-bbsluzba-__UP_anketaId_" href="http://miniaplikace.blueboard.cz">Miniaplikace</a>
-		<script type="text/javascript" src="http://miniaplikace.blueboard.cz/widget-anketa-__UP_anketaId_"></script>
+		<div id="blok-bbsluzba-__UP_anketaId__"></div>
+		<a id="odkaz-bbsluzba-__UP_anketaId__" href="http://miniaplikace.blueboard.cz">Miniaplikace</a>
+		<script type="text/javascript" src="http://miniaplikace.blueboard.cz/widget-anketa-__UP_anketaId__"></script>
      ]]>
   </Content> 
 </Module>
