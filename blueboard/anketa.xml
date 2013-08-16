@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="BlueBoard.cz Anketa" /> 
+  <UserPref name="anketaId" display_name="Identifikátor ankety" required="true" />
+  <Content type="html">
+     <![CDATA[ 
+		<div id="blok-bbsluzba-__UP_anketaId_"></div>
+		<a id="odkaz-bbsluzba-__UP_anketaId_" href="http://miniaplikace.blueboard.cz">Miniaplikace</a>
+		<script type="text/javascript" src="http://miniaplikace.blueboard.cz/widget-anketa-__UP_anketaId_"></script>
+     ]]>
+  </Content> 
+</Module>
